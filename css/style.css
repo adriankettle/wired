@@ -1,0 +1,26 @@
+*{
+  font-family: sans-serif;
+}
+
+header{
+  background-color: steelblue;
+  padding: 15px;
+  width: 100%;
+  height: 100%;
+  image-orientation: center;
+  image-resolution: from-image;
+}
+nav{
+
+}
+h3{
+  text-align: center;
+}
+
+#output{
+  background-color: skyblue;
+  color: white;
+  padding: 15px;
+  width: 100%;
+  height: 100% auto;
+}
